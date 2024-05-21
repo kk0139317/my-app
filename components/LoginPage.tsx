@@ -46,7 +46,7 @@ const LoginPage = () => {
 				<input type="password" name="password" id="password" placeholder="*****" className="w-full px-3 py-2 border rounded-md border-gray-700 dark:border-gray-300 bg-gray-900 dark:bg-gray-50 text-gray-100 dark:text-gray-800 focus:border-default-400 focus:dark:border-default-600" />
 			</div>
 		</div>
-		<button type="button" className="w-full px-8 py-3 font-semibold rounded-md bg-default-400 dark:bg-default-600 text-gray-900 dark:text-gray-50">Sign in</button>
+		<button type="button" className="w-full px-8 py-3 font-semibold rounded-md bg-default-400 text-white bg-indigo-600 hover:bg-indigo-500 active:bg-indigo-700">Sign in</button>
 	</form>
 </div>
   )
